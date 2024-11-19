@@ -142,3 +142,7 @@ cc -Wall -Wextra -Werror -Iincludes test.c libft.a -o test_program
 ## License
 
 This project is released under the MIT License. For details, refer to the [LICENSE](LICENSE) file.
+
+## Author
+
+- Romain -  Github : [rom98759](https://github.com/rom98759)
