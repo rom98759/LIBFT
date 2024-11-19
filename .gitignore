@@ -1,0 +1,23 @@
+# All object files
+*.o
+
+# Executables
+*.exe
+*.out
+
+# Libraries
+*.a
+
+# Shared libraries
+*.so
+
+# Debug files
+/.nfs*
+*.swp
+
+# Other
+*.txt
+
+# Visual Studio Code
+.vscode
+
