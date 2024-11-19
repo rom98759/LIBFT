@@ -21,3 +21,6 @@
 # Visual Studio Code
 .vscode
 
+test_program
+
+objs
