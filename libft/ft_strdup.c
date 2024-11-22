@@ -18,8 +18,8 @@ char	*ft_strdup(const char *src)
 	int		len;
 	char	*dest;
 
-	len = ft_strlen(src) + 1;
-	dest = ft_calloc(len, sizeof(src[0]));
+	len = ft_strlen(src);
+	dest = ft_calloc(len + 1, sizeof(src[0]));
 	if (!dest)
 		return (NULL);
 	i = 0;
